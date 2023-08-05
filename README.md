@@ -24,22 +24,16 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | -n        | Specify theme name (**Default:** _Tela_)                                      |
 | -h        | Show this help                                                                |
 
-|  COLOR VARIANTS |                                       |
-|:----------------|:--------------------------------------|
-| standard        | Standard color folder version         |
-| black           | Black color folder version            |
-| blue            | Blue color folder version             |
-| brown           | Brown color folder version            |
-| green           | Green color folder version            |
-| grey            | Grey color folder version             |
-| orange          | Orange color folder version           |
-| pink            | Pink color folder version             |
-| purple          | Purple color folder version           |
-| red             | Red color folder version              |
-| yellow          | yellow color folder version           |
-| manjaro         | Manjaro default color folder version  |
-| ubuntu          | Ubuntu default color folder version   |
-| nord            | Nord color folder version             |
+|  COLOR VARIANTS |                               |
+|:----------------|:------------------------------|
+|  standard       | Standard color folder version |
+|  red            | Red color folder version      |
+|  orange         | Orange color folder version   |
+|  pink           | Pink color folder version     |
+|  green          | Green color folder version    |
+|  teal           | Teal color folder version     |
+|  blue           | Blue color folder version     |
+|  purple         | Purple color folder version   |
 
 By default, only **the standard one** is selected.
 
