@@ -51,36 +51,36 @@ EOF
 install_theme() {
   case "$1" in
     standard)
-      local -r theme_color='#A9AAB2'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#B4B4BF'
+      local -r theme_back_color='#E4E4F2'
       ;;
     red)
-      local -r theme_color='#BE9D9D'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#BF9D9D'
+      local -r theme_back_color='#E4E4F2'
       ;;
     orange)
-      local -r theme_color='#BEAD9D'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#BFAE9D'
+      local -r theme_back_color='#E4E4F2'
       ;;
     pink)
-      local -r theme_color='#BE9DAD'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#BF9BAE'
+      local -r theme_back_color='#E4E4F2'
       ;;
     green)
-      local -r theme_color='#A3BE9D'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#AEBF9D'
+      local -r theme_back_color='#E4E4F2'
       ;;
     teal)
-      local -r theme_color='#9DBEB0'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#9DBFAE'
+      local -r theme_back_color='#E4E4F2'
       ;;
     blue)
-      local -r theme_color='#9DB3BE'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#9DAEBF'
+      local -r theme_back_color='#E4E4F2'
       ;;
     purple)
-      local -r theme_color='#B69DBE'
-      local -r theme_back_color='#D4D4D9'
+      local -r theme_color='#AE9DBF'
+      local -r theme_back_color='#E4E4F2'
       ;;
   esac
 
